@@ -70,6 +70,7 @@ aside{
   width: 70%;
   height: 200px;
   border-radius:60px;
+  background-image: url(background-img.png);
 }
 
 .blank{
